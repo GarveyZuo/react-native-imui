@@ -6,9 +6,10 @@
 ## 安装
 
 ```
-npm install react-native-imui --save
+pm install react-native-imui --save
 ```
 ## link
+## test
 
 ```
 react-native link react-native-imui 
